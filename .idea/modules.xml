@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AuthCenter/AuthCenter.iml" filepath="$PROJECT_DIR$/AuthCenter/AuthCenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConfigCenter/ConfigCenter.iml" filepath="$PROJECT_DIR$/ConfigCenter/ConfigCenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaCenter/EurekaCenter.iml" filepath="$PROJECT_DIR$/EurekaCenter/EurekaCenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FrameCommon/FrameCommon.iml" filepath="$PROJECT_DIR$/FrameCommon/FrameCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WealthyPower.iml" filepath="$PROJECT_DIR$/WealthyPower.iml" />
+    </modules>
+  </component>
+</project>

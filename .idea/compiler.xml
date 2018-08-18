@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="AuthCenter" />
+        <module name="common" />
+        <module name="ConfigCenter" />
+        <module name="EurekaCenter" />
+        <module name="FrameCommon" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AuthCenter" target="1.8" />
+      <module name="common" target="1.8" />
+      <module name="Common" target="1.8" />
+      <module name="ConfigCenter" target="1.8" />
+      <module name="EurekaCenter" target="1.8" />
+      <module name="eurekaserver" target="1.5" />
+      <module name="FrameCommon" target="1.8" />
+      <module name="WealthyPower" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
