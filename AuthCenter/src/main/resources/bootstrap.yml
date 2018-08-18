@@ -1,0 +1,26 @@
+##  服务端口
+#server:
+#  port: 2021
+##  服务名称
+spring:
+  application:
+    name: wp-auth-server
+  cloud:
+    config:
+      profile: test
+      uri: http://localhost:8888
+##  eureka配置
+#eureka:
+#  client:
+#    service-url:
+#      defaultZone:   http://localhost:2018/eureka/
+#  instance:
+#    status-page-url: http://localhost:2020/eureka/swagger-ui.html
+##  日志
+logging:
+  level:
+    root: info
+    com:
+      netflix:
+        eureka: 'off'
+        discovery:  'off'
